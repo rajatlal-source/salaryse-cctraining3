@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/salaryse-cc-training2/' // pre-set for this repo
+  base: '/salaryse-cctraining3/' // pre-set for this repo
 })
