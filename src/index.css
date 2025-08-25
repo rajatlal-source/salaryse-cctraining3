@@ -1,0 +1,13 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ss-purple: #3D41FA;
+  --ss-yellow: #EEFF41;
+  --ss-ink: #0B0B0B;
+}
+
+* { box-sizing: border-box; }
+body { font-family: 'Noto Sans', system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
